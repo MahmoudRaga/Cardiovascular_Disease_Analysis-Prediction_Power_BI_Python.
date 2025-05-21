@@ -6,7 +6,7 @@ This project presents an end-to-end analysis of cardiovascular patients using **
 
 In addition to interactive dashboards, the project features a predictive model to estimate **Coronary Artery Disease (CAD)** and was part of a **research contribution** where I provided deep feature enhancements and analytical support.
 
-![](https://github.com/MahmoudRaga/Cardiovascular_Disease_Analysis-Prediction_Power_BI_Python./Cardiovascular Disease Analysis with Power BI.png)
+![](https://github.com/MahmoudRaga/Cardiovascular_Disease_Analysis-Prediction_Power_BI_Python./blob/main/Cardiovascular%20Disease%20Analysis%20with%20Power%20BI.png)
 
 ---
 
