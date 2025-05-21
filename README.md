@@ -36,24 +36,34 @@ In addition to interactive dashboards, the project features a predictive model t
 - Donut chart for CAD status (Has CAD / No CAD)
 - Distribution by gender & age
 
+![](https://github.com/MahmoudRaga/Cardiovascular_Disease_Analysis-Prediction_Power_BI_Python./blob/main/1.png)
+
+---
 ### 📄 Page 2 – Chronic Disease Analysis
 - Bar charts for Diabetes, Hypertension, DLP, etc.
 - 100% stacked bars comparing disease presence
 - Pie charts for individual disease prevalence
 - KPIs per condition (count & percentage)
 
+![](https://github.com/MahmoudRaga/Cardiovascular_Disease_Analysis-Prediction_Power_BI_Python./blob/main/2.png)
+
+---
 ### 📄 Page 3 – Demographics & Lifestyle
 - Pie chart: Smoking status (Current, Former, Non-Smoker)
 - Donut chart: Function class distribution
 - KPI: Gender ratio, Avg BP, Avg BMI
 - Histogram: Age & weight groups
 
+![](https://github.com/MahmoudRaga/Cardiovascular_Disease_Analysis-Prediction_Power_BI_Python./blob/main/3.png)
+---
 ### 📄 Page 4 – Patient Details
 - Slicer to select patient by ID
 - Detailed table: diseases, symptoms, lab tests, diagnostics
 - Bar chart: lab result values
 - Donut chart: # of diseases vs. # of healthy conditions
 - Gauge: Ejection Fraction (EF-TTE)
+
+![](https://github.com/MahmoudRaga/Cardiovascular_Disease_Analysis-Prediction_Power_BI_Python./blob/main/4.png)
 
 ---
 
